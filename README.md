@@ -88,7 +88,7 @@ Install the project dependencies with:
 To run the project, execute the following command:
 
 ```
-  rails s
+  npm start
 ```
 
 ### Run tests
@@ -96,7 +96,7 @@ To run the project, execute the following command:
 To run tests, run the following command:
 
 ```
-rspec
+npm test
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -117,7 +117,7 @@ rspec
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- Add more greeting messages
+- Improve UI
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
