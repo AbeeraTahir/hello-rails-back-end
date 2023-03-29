@@ -21,7 +21,7 @@
   - [📝 License ](#-license-)
 
 # Hello-Rails-Backend <a name="hello-rails-react"></a>
-**Hello Rails Backend** is a backend web application that handles the API to display a random greeting message on screen using [Hello React Frontend](https://github.com/AbeeraTahir/hello-react-front-end.git).
+**Hello Rails Backend** is a backend web application that handles the API to display a random greeting message on screen using [Hello React Frontend](https://github.com/AbeeraTahir/hello-react-front-end.git) as front-end.
 
 ## 🛠 Built With <a name="built-with"></a>
 
