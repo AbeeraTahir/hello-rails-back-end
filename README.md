@@ -21,18 +21,12 @@
   - [📝 License ](#-license-)
 
 # Hello-Rails-Backend <a name="hello-rails-react"></a>
-**Hello Rails Backend** is a backend web application that handles the API to display a random greeting message on screen.
+**Hello Rails Backend** is a backend web application that handles the API to display a random greeting message on screen using [Hello React Frontend](https://github.com/AbeeraTahir/hello-react-front-end.git).
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-<details>
-  <summary>Client</summary>
-  <ul> 
-    <li><a href="https://github.com/microverseinc/linters-config/tree/master/ror">Linters</a></li>   
-  </ul>
-</details>
 <details>
   <summary>Server</summary>
   <ul>
